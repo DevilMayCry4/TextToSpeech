@@ -5,10 +5,12 @@ Example iOS app to take advantage of the text to speech features enabled startin
 
 This sample project is a single view application that shows off some of the text to speech features that were first introduced in the iOS 7 SDK. You type in text in a textbox, select a voice type, speed, pitch and pause cutoff type and then play and stop playback of the text translated to voice. The app also registers itself to play speech when the app is running the background with full audio control capability. Here are the major libraries used:
 
-AVSpeechSynthesizer
-AVSpeechUtterance
-AVAudioSession
-MediaPlayer
+<ul>
+<li>AVSpeechSynthesizer</li>
+<li>AVSpeechUtterance</li>
+<li>AVAudioSession</li>
+<li>MediaPlayer</li>
+</ul>
 
 This was deployed on iOS 8 using XCode 6 but should work just fine on iOS 7 using XCode 5.
 
