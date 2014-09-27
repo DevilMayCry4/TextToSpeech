@@ -11,3 +11,8 @@ AVAudioSession
 MediaPlayer
 
 This was deployed on iOS 8 using XCode 6 but should work just fine on iOS 7 using XCode 5.
+
+Issues:
+As of XCode 6.0.1 the simulator appears to not work at all with the AVSpeechSynthesizer. If you get an error message like the following, it is a simulator issue and not a program issue. It should work fine on any compatible iOS device:
+
+Speech initialization error: 2147483665
