@@ -19,4 +19,4 @@ As of XCode 6.0.1 the simulator appears to not work at all with the AVSpeechSynt
 
 Speech initialization error: 2147483665
 
-<img src="http://brettdidonato.com/blog/wp-content/uploads/2014/09/texttospeechscreenshot1.png">
+<img src="https://s3.amazonaws.com/BSDTemp/texttospeechscreenshot1.png">
